@@ -1,8 +1,7 @@
+.PHONY:	help serve deploy
+
 help:
 	@echo 'make [serve|deploy]'
-
-.PHONY:	serve deploy
-
 
 serve:
 	jekyll serve --watch
