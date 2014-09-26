@@ -1,24 +1,75 @@
 ---
 layout: none
 ---
+
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>{{ site.name | xml_escape }}</title>
-		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>		
-		<link>{{ site.url }}</link>
-		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.posts limit:10 %}
-			<item>
-				<title>{{ post.title | xml_escape }}</title>
-				<description>{{ post.content | xml_escape }}</description>
-				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-				<link>{{ site.url }}{{ post.url }}</link>
-				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-				{% if post.enclosure %}
-				<enclosure url="{{ post.enclosure }}" />
-				{% endif %}
-			</item>
-		{% endfor %}
-	</channel>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+
+	<title>{{ site.name | xml_escape }}</title>
+
+	<link>{{ site.url }}</link>
+
+	<language>en</language>
+
+	<copyright>&#xA9; 2014 {{ site.author }} and respective copyright holders. </copyright>
+
+	<itunes:subtitle>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</itunes:subtitle>
+
+	<itunes:author>{{ site.name | xml_escape }}</itunes:author>
+
+	<itunes:keywords>music</itunes:keywords>
+
+	<itunes:summary>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</itunes:summary>	
+
+	<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>	
+
+	<itunes:owner>
+
+		<itunes:name>{{ site.author }}</itunes:name>
+
+		<itunes:email>{{ site.author-email }}</itunes:email>
+
+	</itunes:owner>
+
+	<itunes:image href="" />
+
+	<itunes:category text="Music" />
+
+	<!-- <itunes:new-feed-url></itunes:new-feed-url> -->
+
+{% for post in site.posts limit:10 %}
+ 
+<item>
+
+	<title>{{ post.title }}</title>
+
+	<itunes:author>{{ site.author }}</itunes:author>
+
+	<itunes:subtitle>{{ site.name | xml_escape }}: {{ post.title | xml_escape }}</itunes:subtitle>
+
+	<itunes:summary>{{ post.content | xml_escape }}</itunes:summary>
+
+	<itunes:image href="" />
+
+	{% if post.enclosure %}
+	<enclosure url="{{ post.enclosure }}" />
+	{% endif %}
+
+	<guid>{{ post.link }}</guid>
+
+	<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+
+	<itunes:duration>{{ post.duration }}</itunes:duration>
+
+	<itunes:keywords>music</itunes:keywords>
+ 
+ </item>
+
+ {% endfor %}
+
+</channel>
+
 </rss>
