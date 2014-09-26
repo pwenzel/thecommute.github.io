@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="chrome=1">
+		<title>The Commute - By Paul Wenzel</title>
+		<link rel="stylesheet" href="stylesheets/style.css">
+	</head>
+	<body>
+
+		<section class="row">
+
+			<header class="medium-6 columns medium-centered">
+				<h1>The Commute</h1>
+			</header>
+
+			<article class="blog-index medium-6 columns medium-centered">  
+				{% comment %} https://gist.github.com/nimbupani/1421828 {% endcomment %}
+				{% assign post = site.posts.first %}
+				{% assign content = post.content %}
+				{% include post_detail.html %}
+				<hr />
+			</article>
+
+			{% for post in site.posts %}
+
+			<article class="medium-6 columns medium-centered">
+				<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+				{{ post.excerpt }}
+			</article>
+			
+			{% endfor %}
+
+		</section>	
+			
+	</body>
+</html>
