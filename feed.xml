@@ -14,7 +14,7 @@ layout: none
 
 	<language>en</language>
 
-	<copyright>&#xA9; 2014 {{ site.author }} and respective copyright holders. </copyright>
+	<copyright>&#xA9; {{ site.time | date: "%Y" }} {{ site.author }} and respective copyright holders. </copyright>
 
 	<itunes:subtitle>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</itunes:subtitle>
 
@@ -38,7 +38,7 @@ layout: none
 
 	<itunes:category text="Music" />
 
-	<!-- <itunes:new-feed-url></itunes:new-feed-url> -->
+	<itunes:new-feed-url>{{ site.feed-url }}</itunes:new-feed-url>
 
 {% for post in site.posts limit:10 %}
  
