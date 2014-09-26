@@ -4,7 +4,7 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="chrome=1">
 		<title>The Commute - By Paul Wenzel</title>
-		<link rel="stylesheet" href="stylesheets/style.css">
+		<link rel="stylesheet" href="/stylesheets/style.css">
 	</head>
 	<body>
 
@@ -12,6 +12,7 @@
 
 			<header class="medium-6 columns medium-centered">
 				<h1>The Commute</h1>
+				<hr />
 			</header>
 
 			<article class="blog-index medium-6 columns medium-centered">  
@@ -23,15 +24,23 @@
 			</article>
 
 			{% for post in site.posts %}
-
-			<article class="medium-6 columns medium-centered">
-				<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-				{{ post.excerpt }}
-			</article>
 			
+				{% if post != site.posts.first %}
+				<article class="medium-6 columns medium-centered">
+					<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+					{{ post.excerpt }}
+				</article>
+				{% endif %}
+
 			{% endfor %}
 
 		</section>	
+
+		<footer class="row">
+			<div class="medium-6 columns medium-centered">
+				<p>RSS Feed</p>
+			</div>
+		</footer>
 			
 	</body>
 </html>
