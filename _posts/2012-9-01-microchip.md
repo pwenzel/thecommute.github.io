@@ -1,8 +1,9 @@
 ---
 layout: post
 title: A Microchip off the Old Block
-download: https://app.box.com/s/j05bd8regp4hsul9fr78
-enclosure: http://pwenzel.info/podcasts/AMicrochipOffTheOldBlock.m4a
+m4a: http://m.pwenzel.info/podcasts/AMicrochipOffTheOldBlock.m4a
+mp3: http://m.pwenzel.info/podcasts/AMicrochipOffTheOldBlock.mp3
+enclosure: http://m.pwenzel.info/podcasts/AMicrochipOffTheOldBlock.mp3
 ---
 
 Electro-rock set
