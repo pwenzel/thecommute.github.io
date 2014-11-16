@@ -26,11 +26,25 @@ header, article {
 }
 
 article {
-	iframe {
-		margin:1em 0;
-	}
+	// iframe {
+	// 	margin:1em 0;
+	// 	display: none !important;
+	// 	visibility: hidden !important;
+	// }
 	&:last-child {
 		border-bottom: none;
+	}
+}
+
+.default {
+	article {
+		&:first-of-type {
+			.entry-title {
+				&::before { 
+				    content: "NEW: ";
+				}
+			}
+		}
 	}
 }
 

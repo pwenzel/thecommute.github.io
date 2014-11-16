@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Punk Rock Covers
-m4a: 
 mp3: http://m.pwenzel.info/podcasts/PunkRockCovers.mp3
 enclosure: http://m.pwenzel.info/podcasts/PunkRockCovers.mp3
 ---

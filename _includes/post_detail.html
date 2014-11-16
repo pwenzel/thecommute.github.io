@@ -13,8 +13,8 @@
 
 	{% if post.mp3 or post.m4a %}
 	<p class="downloads">
+		{% if post.m4a %}<a href="{{ post.m4a }}">Download Chapterized AAC</a>{% endif %}
 		{% if post.mp3 %}<a href="{{ post.mp3 }}">Download MP3</a>{% endif %}
-		{% if post.m4a %}<a href="{{ post.m4a }}">Download Chapterized M4A</a>{% endif %}
 	</p>
 	{% endif %}
 
