@@ -1,30 +1,24 @@
 <!doctype html>
 <html>
-<head>
-	<title>{{ page.title }} - {{ site.name }}</title>
-	{% include meta.html %}
-</head>
-<body class="post">
+	<head>
+		<title>{{ page.title }} - {{ site.name }}</title>
+		{% include meta.html %}
+	</head>
+	<body class="default">
 
-	<section class="row">
+		<section class="row">
 
-		<div class="medium-10 columns medium-centered">
-			<header>
-				<h1><a href="/">{{ site.name }}</a></h1>
-			</header>
+			<div class="medium-10 columns medium-centered">
 
-			<article>  
-				<h2 class="entry-title">
-				{{ page.title }}
-				</h2>
-				<div class="entry-content">{{ page.content }}</div>
+				{% include header.html %}
 
-			</article>
-		</div>
+				{% include post_detail.html %}
 
-	</section>	
-		
-	{{ include footer.html }}
-		
-</body>
+			</div>
+
+		</section>	
+
+		{% include footer.html %}
+			
+	</body>
 </html>
