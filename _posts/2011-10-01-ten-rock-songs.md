@@ -7,6 +7,8 @@ enclosure: http://m.pwenzel.info/podcasts/10RockSongs.mp3
 mixcloud: http://www.mixcloud.com/pwenzel/10-rock-songs-october-2011-mix/
 ---
 
+![](//images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/2472ba4e-2de8-4fe6-ae54-23a39b3f2c36.jpg)
+
 1. 7 nation Army - Nostalgia 77
 2. I Got Mine - The Black Keys
 3. The Hardest Button to Button - The White Stripes

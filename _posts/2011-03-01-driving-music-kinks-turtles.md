@@ -9,6 +9,8 @@ mixcloud: http://www.mixcloud.com/pwenzel/driving-music-starts-with-the-kinks-en
 
 Music to drive to.
 
+![](//images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/c7743ff5-05bd-4bc0-b4e4-5ca34b20779d.jpg)
+
 1. All Day And All Of The Night - The Kinks
 2. Nobody But Me - The Human Beinz
 3. Dancing in the Street - Martha Reeves & The Vandellas

@@ -6,7 +6,7 @@ mp3: http://m.pwenzel.info/podcasts/PunkRockCovers.mp3
 enclosure: http://m.pwenzel.info/podcasts/PunkRockCovers.mp3
 ---
 
-<!-- ![](//images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/1af5d47b-2538-4184-8eb7-c359d0462245.jpg) -->
+![Ariel](//images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/1af5d47b-2538-4184-8eb7-c359d0462245.jpg) 
 
 1. The Punkles - Help
 2. The Supersuckers - Hey Ya

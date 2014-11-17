@@ -9,6 +9,9 @@ enclosure: http://m.pwenzel.info/podcasts/MetalChristmasMix.m4a
 
 Forget the Trans-Siberian Orchestra. This is the real holiday metal.
 
+![Santa](//images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/100a5193-ce9e-47c4-88f1-b0c512e22441.jpg)
+
+
 1. Alice Cooper – Santa Claus is coming to town
 2. King Diamond- No Presents For Christmas
 3. Venom – Black Xmas

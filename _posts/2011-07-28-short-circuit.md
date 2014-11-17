@@ -7,6 +7,7 @@ enclosure: http://m.pwenzel.info/podcasts/Short_Circuit.m4a
 mixcloud: http://www.mixcloud.com/pwenzel/short-circuit/
 ---
 
+![Short Circuit](//images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/c9a00e8b-e344-4d2b-8aaf-b4f9f8e1a699.jpg)
 
 1. Intro - Mr Oizo
 2. Short circuit - Daft Punk
