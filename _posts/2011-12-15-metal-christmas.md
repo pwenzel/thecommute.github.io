@@ -1,14 +1,13 @@
 ---
 layout: post
 title: A Heavy Metal Christmas
+mixcloud: http://www.mixcloud.com/pwenzel/a-heavy-metal-christmas/
 m4a: http://m.pwenzel.info/podcasts/MetalChristmasMix.m4a
 mp3: http://m.pwenzel.info/podcasts/MetalChristmasMix.mp3
 enclosure: http://m.pwenzel.info/podcasts/MetalChristmasMix.m4a
 ---
 
 Forget the Trans-Siberian Orchestra. This is the real holiday metal.
-
-<iframe width="100%" height="60" src="//www.mixcloud.com/widget/iframe/?feed=http%3A%2F%2Fwww.mixcloud.com%2Fpwenzel%2Fa-heavy-metal-christmas%2F&amp;mini=1&amp;embed_uuid=4be802a0-9178-4729-99b7-ee27e03e3cda&amp;replace=0&amp;hide_cover=1&amp;light=1&amp;hide_artwork=1&amp;embed_type=widget_standard&amp;hide_tracklist=1" frameborder="0"></iframe>
 
 1. Alice Cooper – Santa Claus is coming to town
 2. King Diamond- No Presents For Christmas
