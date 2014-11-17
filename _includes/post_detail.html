@@ -11,6 +11,8 @@
 
 	<div class="entry-content">{{ content }}</div>
 
+	{% assign post = page %}
+
 	{% if post.mp3 or post.m4a or post.mixcloud %}
 	<p class="downloads">
 		{% if post.m4a %}<a href="{{ post.m4a }}"><span></span>Download Chapterized AAC</a>{% endif %}
