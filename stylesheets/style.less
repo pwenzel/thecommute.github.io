@@ -55,9 +55,17 @@ article {
 	}
 
 	.downloads {
+		span {
+			color: black !important;
+		}
 		a {
-			&:hover {
-				border-bottom: 1px dashed brown;
+
+			&:nth-of-type(2), &:nth-of-type(3) {
+				span {
+					&::before { 
+					    content: " or ";
+					}
+				}
 			}
 		}
 	}
