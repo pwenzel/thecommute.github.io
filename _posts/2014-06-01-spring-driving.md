@@ -4,6 +4,8 @@ title: Spring Driving Mix (June 2014)
 mixcloud: http://www.mixcloud.com/pwenzel/spring-2014-driving-mix/
 ---
 
+<!-- ![](//images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/29388e1c-144b-411e-a483-aff0adb44244.jpeg) -->
+
 1. E Talking - Soulwax
 2. Song 2 - Blur
 3. Salute Your Solution - The Raconteurs
