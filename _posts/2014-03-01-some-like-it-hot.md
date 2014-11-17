@@ -2,9 +2,9 @@
 layout: post
 title: Some Like it Hot (Spring 2014)
 mixcloud: http://www.mixcloud.com/pwenzel/some-like-it-hot/
+image: //images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/bafc5780-d93d-4f24-8069-bb88fa10917b.jpg
 ---
 
-![Flames](//images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/bafc5780-d93d-4f24-8069-bb88fa10917b.jpg)
 
 Theme of flames, fire, combustion, and things that burn.
 

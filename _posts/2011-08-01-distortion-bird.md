@@ -5,9 +5,8 @@ m4a: http://m.pwenzel.info/podcasts/Distortin_Bird.m4a
 mp3: http://m.pwenzel.info/podcasts/Distortin_Bird.mp3
 enclosure: http://m.pwenzel.info/podcasts/Distortin_Bird.m4a
 mixcloud: http://www.mixcloud.com/pwenzel/distortin-bird/
+image: //images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/29b04917-e0d5-4f23-9c12-11241094267b.jpg
 ---
-
-![](//images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/29b04917-e0d5-4f23-9c12-11241094267b.jpg)
 
 1. California Dreamin' - Hi Standard
 2. Surfin' Bird - The Ramones
