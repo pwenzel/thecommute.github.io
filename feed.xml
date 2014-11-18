@@ -34,7 +34,7 @@ layout:
 
 	</itunes:owner>
 
-	<itunes:image href="" />
+	<itunes:image href="{{ site.feed-image }}" />
 
 	<itunes:category text="Music" />
 
