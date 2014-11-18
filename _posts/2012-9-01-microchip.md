@@ -4,7 +4,7 @@ title: A Microchip off the Old Block (Fall 2012)
 mixcloud: http://www.mixcloud.com/pwenzel/a-microchip-off-the-old-block/
 m4a: http://m.pwenzel.info/podcasts/AMicrochipOffTheOldBlock.m4a
 mp3: http://m.pwenzel.info/podcasts/AMicrochipOffTheOldBlock.mp3
-enclosure: http://m.pwenzel.info/podcasts/AMicrochipOffTheOldBlock.mp3
+enclosure: http://m.pwenzel.info/podcasts/AMicrochipOffTheOldBlock.m4a
 image: //images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/92e54438-1d49-48b0-ad68-306c3afaeaff.jpg
 ---
 
