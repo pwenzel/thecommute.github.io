@@ -3,7 +3,8 @@ layout: post
 title: Punk Rock Covers (Fall 2014)
 mixcloud: http://www.mixcloud.com/pwenzel/punk-rock-covers/
 mp3: http://m.pwenzel.info/podcasts/PunkRockCovers.mp3
-enclosure: http://m.pwenzel.info/podcasts/PunkRockCovers.mp3
+m4a: http://m.pwenzel.info/podcasts/PunkRockCovers.m4a
+enclosure: http://m.pwenzel.info/podcasts/PunkRockCovers.m4a
 image: http://images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/1af5d47b-2538-4184-8eb7-c359d0462245.jpg
 ---
 
