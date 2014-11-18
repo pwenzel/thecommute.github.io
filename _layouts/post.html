@@ -1,7 +1,9 @@
 <!doctype html>
-<html>
+<head prefix="og: http://ogp.me/ns#">
 	<head>
 		<title>{{ page.title }} - {{ site.name }}</title>
+		{% if page.image %}<meta property="og:image" content="{{ page.image }}" />{% endif %}
+		{% if page.enclosure %}<meta property="og:audio" content="{{ page.enclosure }}" />{% endif %}
 		{% include meta.html %}
 	</head>
 	<body class="post">
