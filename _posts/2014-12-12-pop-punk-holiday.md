@@ -1,14 +1,13 @@
 ---
 layout: post
 title: A Pop Punk Holiday
-mixcloud: http://www.mixcloud.com/pwenzel/a-pop-punk-holiday/
-mp3: http://m.pwenzel.info/podcasts/A-Pop-Punk-Holiday.mp3
-m4a: http://m.pwenzel.info/podcasts/A-Pop-Punk-Holiday.m4a
-enclosure: http://m.pwenzel.info/podcasts/A-Pop-Punk-Holiday.m4a
-image: http://images-mix.netdna-ssl.com/w/300/h/300/q/85/upload/images/extaudio/b5694506-6541-484f-8162-0430b62c81d7.jpg
+mixcloud: "http://www.mixcloud.com/pwenzel/a-pop-punk-holiday/"
+mp3: "http://m.pwenzel.info/podcasts/A-Pop-Punk-Holiday.mp3"
+m4a: "http://m.pwenzel.info/podcasts/A-Pop-Punk-Holiday.m4a"
+enclosure: "http://m.pwenzel.info/podcasts/A-Pop-Punk-Holiday.m4a"
+image: "http://images-mix.netdna-ssl.com/w/300/h/300/q/85/upload/images/extaudio/b5694506-6541-484f-8162-0430b62c81d7.jpg"
+published: true
 ---
-
-This is tech talk test.
 
 1. Horray for Santa Claus - Sloppy Seconds
 2. My First Xmas, as a Woman - The Vandals
