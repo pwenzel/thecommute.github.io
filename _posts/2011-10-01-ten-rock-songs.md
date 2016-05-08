@@ -2,7 +2,7 @@
 layout: post
 title: 10 Rock Songs (October 2011 Mix)
 m4a: http://m.pwenzel.info/podcasts/10RockSongs.m4a
-mp3: http://m.pwenzel.info/podcasts/10RockSongs.mp3
+mp3: https://f001.backblaze.com/file/commute/10RockSongs.mp3
 enclosure: http://m.pwenzel.info/podcasts/10RockSongs.m4a
 mixcloud: http://www.mixcloud.com/pwenzel/10-rock-songs-october-2011-mix/
 image: //images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/2472ba4e-2de8-4fe6-ae54-23a39b3f2c36.jpg
