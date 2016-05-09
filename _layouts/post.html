@@ -3,8 +3,8 @@
 	<head>
 		<title>{{ page.title }} - {{ site.name }}</title>
 		{% include meta.html %}
-		{% if page.image %}<meta property="og:image" content="{{ page.image }}" />{% endif %}
-		{% if page.enclosure %}<meta property="og:audio" content="{{ page.enclosure }}" />{% endif %}
+		{% if page.image %}<meta property="og:image" content="{{ site.media-path }}{{ page.image }}" />{% endif %}
+		{% if page.enclosure %}<meta property="og:audio" content="{{ site.media-path }}{{ page.enclosure }}" />{% endif %}
 	</head>
 	<body class="post">
 
@@ -18,9 +18,9 @@
 
 			</div>
 
-		</section>	
+		</section>
 
 		{% include footer.html %}
-			
+
 	</body>
 </html>

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: A Mix for Peace of Mind (2006)
-mp3: http://m.pwenzel.info/podcasts/A_Mix_For_Peace_of_Mind.mp3
-enclosure: http://m.pwenzel.info/podcasts/A_Mix_For_Peace_of_Mind.mp3
+mp3: https://f001.backblaze.com/file/commute/A_Mix_For_Peace_of_Mind.mp3
+enclosure: https://f001.backblaze.com/file/commute/A_Mix_For_Peace_of_Mind.mp3
 mixcloud: http://www.mixcloud.com/pwenzel/a-mix-for-peace-of-mind/
-image: //images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/ac357196-07e7-4c2b-ae3b-f2c2f71c2f54.jpg
+image: https://f001.backblaze.com/file/commute/A_Mix_For_Peace_of_Mind.jpg
 ---
 
 A quiet blend of ambience and drums, including such pleasantries as:

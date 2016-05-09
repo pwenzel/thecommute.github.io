@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Driving Music - Starts with the Kinks, ends with The Turtles
-m4a: http://m.pwenzel.info/podcasts/Driving_Music_Starts_with_the_Kinks_ends_with_The_Turtles.m4a
-mp3: http://m.pwenzel.info/podcasts/Driving_Music_Starts_with_the_Kinks_ends_with_The_Turtles.mp3
-enclosure: http://m.pwenzel.info/podcasts/Driving_Music_Starts_with_the_Kinks_ends_with_The_Turtles.m4a
+m4a: https://f001.backblaze.com/file/commute/Driving_Music_Starts_with_the_Kinks_ends_with_The_Turtles.m4a
+mp3: https://f001.backblaze.com/file/commute/Driving_Music_Starts_with_the_Kinks_ends_with_The_Turtles.mp3
+enclosure: https://f001.backblaze.com/file/commute/Driving_Music_Starts_with_the_Kinks_ends_with_The_Turtles.m4a
 mixcloud: http://www.mixcloud.com/pwenzel/driving-music-starts-with-the-kinks-ends-with-the-turtles/
 image: //images-mix.netdna-ssl.com/w/600/h/600/q/85/upload/images/extaudio/c7743ff5-05bd-4bc0-b4e4-5ca34b20779d.jpg
 ---

@@ -11,7 +11,7 @@
 
 	<div class="entry-content">
 		{% if page.image %}
-		<img src="{{ page.image }}" />
+		<img src="{{ site.media-path }}{{ page.image }}" />
 		{% endif %}
 		{{ content }}
 	</div>
@@ -20,8 +20,8 @@
 
 	{% if post.mp3 or post.m4a or post.mixcloud %}
 	<p class="downloads">
-		{% if post.m4a %}<a href="{{ post.m4a }}"><span></span>Download Chapterized AAC</a>{% endif %}
-		{% if post.mp3 %}<a href="{{ post.mp3 }}"><span></span>Download MP3</a>{% endif %}
+		{% if post.m4a %}<a href="{{ site.media-path }}{{ post.m4a }}"><span></span>Download Chapterized AAC</a>{% endif %}
+		{% if post.mp3 %}<a href="{{ site.media-path }}{{ post.mp3 }}"><span></span>Download MP3</a>{% endif %}
 		{% if post.mixcloud %}<a href="{{ post.mixcloud }}"><span></span>Stream on Mixcloud</a>{% endif %}
 	</p>
 	{% endif %}
